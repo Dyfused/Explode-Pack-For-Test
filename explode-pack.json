@@ -1,0 +1,323 @@
+{
+	"id": null,
+	"author": null,
+	"sets": [
+		{
+			"id": "5de766715c363c47b7302c57",
+			"musicName": "八大地獄邪魂転生狂葬散火歌",
+			"composerName": "さかみりと",
+			"noterName": "Sion",
+			"introduction": "For Dan Courses ONLY",
+			"musicPath": "八大地獄邪魂転生狂葬散火歌(Sion)/八大地獄邪魂転生狂葬散火歌.mp3.rnx",
+			"previewMusicPath": "八大地獄邪魂転生狂葬散火歌(Sion)/八大地獄邪魂転生狂葬散火歌_preview.mp3.rnx",
+			"coverPicturePath": "八大地獄邪魂転生狂葬散火歌(Sion)/八大地獄邪魂転生狂葬散火歌.jpg.rnx",
+			"storePreviewPicturePath": null,
+			"charts": [
+				{
+					"id": null,
+					"difficultyClass": 4,
+					"difficultyValue": 13,
+					"DValue": null,
+					"chartPath": "八大地獄邪魂転生狂葬散火歌(Sion)/八大地獄邪魂転生狂葬散火歌_Mega.xml.rnx"
+				}
+			]
+		},
+		{
+			"id": "5e0eb78fdcf574b161e378c4",
+			"musicName": "初音ミクの消失",
+			"composerName": "cosMo＠暴走P",
+			"noterName": "ny:",
+			"introduction": "15最上位　ラスト発狂",
+			"musicPath": "初音ミクの消失(ny)/初音ミクの消失.mp3.rnx",
+			"previewMusicPath": "初音ミクの消失(ny)/初音ミクの消失_preview.mp3.rnx",
+			"coverPicturePath": "初音ミクの消失(ny)/初音ミクの消失.jpg.rnx",
+			"storePreviewPicturePath": null,
+			"charts": [
+				{
+					"id": null,
+					"difficultyClass": 5,
+					"difficultyValue": 15,
+					"DValue": null,
+					"chartPath": "初音ミクの消失(ny)/初音ミクの消失_Giga.xml.rnx"
+				}
+			]
+		},
+		{
+			"id": "5dfc8fce56e576c4006a5afe",
+			"musicName": "君の知らない物語 (TV size)",
+			"composerName": "supercell",
+			"noterName": "Meditator",
+			"introduction": "修复了判定问题 同时重做了谱面\\n请把unrank删了（便乘）\\n\\n价格为12话的故事时间",
+			"musicPath": "君の知らない物語 (TV size)(Meditator)/君の知らない物語 (TV size).mp3.rnx",
+			"previewMusicPath": "君の知らない物語 (TV size)(Meditator)/君の知らない物語 (TV size)_preview.mp3.rnx",
+			"coverPicturePath": "君の知らない物語 (TV size)(Meditator)/君の知らない物語 (TV size).jpg.rnx",
+			"storePreviewPicturePath": null,
+			"charts": [
+				{
+					"id": null,
+					"difficultyClass": 1,
+					"difficultyValue": 3,
+					"DValue": null,
+					"chartPath": "君の知らない物語 (TV size)(Meditator)/君の知らない物語 (TV size)_CASUAL.xml.rnx"
+				},
+				{
+					"id": null,
+					"difficultyClass": 2,
+					"difficultyValue": 6,
+					"DValue": null,
+					"chartPath": "君の知らない物語 (TV size)(Meditator)/君の知らない物語 (TV size)_NORMAL.xml.rnx"
+				},
+				{
+					"id": null,
+					"difficultyClass": 3,
+					"difficultyValue": 9,
+					"DValue": null,
+					"chartPath": "君の知らない物語 (TV size)(Meditator)/君の知らない物語 (TV size)_HARD.xml.rnx"
+				},
+				{
+					"id": null,
+					"difficultyClass": 4,
+					"difficultyValue": 12,
+					"DValue": null,
+					"chartPath": "君の知らない物語 (TV size)(Meditator)/君の知らない物語 (TV size)_MEGA.xml.rnx"
+				}
+			]
+		},
+		{
+			"id": "5e9ee02b9e8bec9ce7ac296d",
+			"musicName": "Astronomia (美國空軍 a.k.a. Daily Mix)",
+			"composerName": "Daily/天利",
+			"noterName": "DraXon v.s. chy030",
+			"introduction": "要  素  溢  出",
+			"musicPath": "Astronomia (美國空軍 a.k.a. Daily Mix)(DraXon v.s. chy030)/Astronomia (美國空軍 a.k.a. Daily Mix).mp3.rnx",
+			"previewMusicPath": "Astronomia (美國空軍 a.k.a. Daily Mix)(DraXon v.s. chy030)/Astronomia (美國空軍 a.k.a. Daily Mix)_preview.mp3.rnx",
+			"coverPicturePath": "Astronomia (美國空軍 a.k.a. Daily Mix)(DraXon v.s. chy030)/Astronomia (美國空軍 a.k.a. Daily Mix).jpg.rnx",
+			"storePreviewPicturePath": null,
+			"charts": [
+				{
+					"id": null,
+					"difficultyClass": 3,
+					"difficultyValue": 10,
+					"DValue": null,
+					"chartPath": "Astronomia (美國空軍 a.k.a. Daily Mix)(DraXon v.s. chy030)/Astronomia (美國空軍 a.k.a. Daily Mix)_HARD.xml.rnx"
+				},
+				{
+					"id": null,
+					"difficultyClass": 4,
+					"difficultyValue": 13,
+					"DValue": null,
+					"chartPath": "Astronomia (美國空軍 a.k.a. Daily Mix)(DraXon v.s. chy030)/Astronomia (美國空軍 a.k.a. Daily Mix)_MEGA.xml.rnx"
+				},
+				{
+					"id": null,
+					"difficultyClass": 5,
+					"difficultyValue": 14,
+					"DValue": null,
+					"chartPath": "Astronomia (美國空軍 a.k.a. Daily Mix)(DraXon v.s. chy030)/Astronomia (美國空軍 a.k.a. Daily Mix)_GIGA.xml.rnx"
+				}
+			]
+		},
+		{
+			"id": "5ca0d7f52f72ed50b22f8aa7",
+			"musicName": "Confession (MUSYNC edit)",
+			"composerName": "Haloweak & G.K",
+			"noterName": "TangScend",
+			"introduction": "谱面设计: Sandy Tong(TangScend)",
+			"musicPath": "Confession (MUSYNC edit)(TangScend)/Confession (MUSYNC edit).mp3.rnx",
+			"previewMusicPath": "Confession (MUSYNC edit)(TangScend)/Confession (MUSYNC edit)_preview.mp3.rnx",
+			"coverPicturePath": "Confession (MUSYNC edit)(TangScend)/Confession (MUSYNC edit).jpg.rnx",
+			"storePreviewPicturePath": null,
+			"charts": [
+				{
+					"id": null,
+					"difficultyClass": 3,
+					"difficultyValue": 9,
+					"DValue": null,
+					"chartPath": "Confession (MUSYNC edit)(TangScend)/Confession (MUSYNC edit)_Hard.xml.rnx"
+				}
+			]
+		},
+		{
+			"id": "5d7c8b8dc766e13181f2c742",
+			"musicName": "Empire of Winter",
+			"composerName": "Street",
+			"noterName": "Nanohemu",
+			"introduction": "大幅修改旧谱",
+			"musicPath": "Empire of Winter(Nanohemu)/Empire of Winter.mp3.rnx",
+			"previewMusicPath": "Empire of Winter(Nanohemu)/Empire of Winter_preview.mp3.rnx",
+			"coverPicturePath": "Empire of Winter(Nanohemu)/Empire of Winter.jpg.rnx",
+			"storePreviewPicturePath": null,
+			"charts": [
+				{
+					"id": null,
+					"difficultyClass": 3,
+					"difficultyValue": 9,
+					"DValue": null,
+					"chartPath": "Empire of Winter(Nanohemu)/Empire of Winter_Hard.xml.rnx"
+				}
+			]
+		},
+		{
+			"id": "6020cc2f7a154a2781dd807f",
+			"musicName": "POPPY PAPPY DAY(8Bit Mix)",
+			"composerName": "吟",
+			"noterName": "Wikvii's chart store",
+			"introduction": "番剧POP TEAM EPIC第七话ED；BPM:142\\nH9的灵感来源于ED画面，想表达无数次地打同样的游戏流程，简单枯燥又不乏乐趣的感觉。\\nM11是对音乐本身的表现，为了使8-bit音效表达的更充分而使用了伪单面6k。\\n玩的开心:）",
+			"musicPath": "POPPY PAPPY DAY(8Bit Mix)(Wikvii's chart store)/POPPY PAPPY DAY(8Bit Mix).mp3.rnx",
+			"previewMusicPath": "POPPY PAPPY DAY(8Bit Mix)(Wikvii's chart store)/POPPY PAPPY DAY(8Bit Mix)_preview.mp3.rnx",
+			"coverPicturePath": "POPPY PAPPY DAY(8Bit Mix)(Wikvii's chart store)/POPPY PAPPY DAY(8Bit Mix).jpg.rnx",
+			"storePreviewPicturePath": null,
+			"charts": [
+				{
+					"id": null,
+					"difficultyClass": 3,
+					"difficultyValue": 9,
+					"DValue": null,
+					"chartPath": "POPPY PAPPY DAY(8Bit Mix)(Wikvii's chart store)/POPPY PAPPY DAY(8Bit Mix)_HARD.xml.rnx"
+				},
+				{
+					"id": null,
+					"difficultyClass": 4,
+					"difficultyValue": 11,
+					"DValue": null,
+					"chartPath": "POPPY PAPPY DAY(8Bit Mix)(Wikvii's chart store)/POPPY PAPPY DAY(8Bit Mix)_MEGA.xml.rnx"
+				}
+			]
+		},
+		{
+			"id": "61d8bc1fd526f0e238e9a37e",
+			"musicName": "PRAGMATISM -RESURRECTION-",
+			"composerName": "Laur",
+			"noterName": "JKy -RESURRECTION-",
+			"introduction": "",
+			"musicPath": "PRAGMATISM -RESURRECTION-(JKy -RESURRECTION-)/PRAGMATISM -RESURRECTION-.mp3.rnx",
+			"previewMusicPath": "PRAGMATISM -RESURRECTION-(JKy -RESURRECTION-)/PRAGMATISM -RESURRECTION-_preview.mp3.rnx",
+			"coverPicturePath": "PRAGMATISM -RESURRECTION-(JKy -RESURRECTION-)/PRAGMATISM -RESURRECTION-.jpg.rnx",
+			"storePreviewPicturePath": null,
+			"charts": [
+				{
+					"id": null,
+					"difficultyClass": 5,
+					"difficultyValue": 15,
+					"DValue": null,
+					"chartPath": "PRAGMATISM -RESURRECTION-(JKy -RESURRECTION-)/PRAGMATISM -RESURRECTION-_GIGA.xml.rnx"
+				}
+			]
+		},
+		{
+			"id": "5cdf77630d164963024ed1ef",
+			"musicName": "Red and Blue and Green",
+			"composerName": "fn (Arcaea Sound Team)",
+			"noterName": "Likey",
+			"introduction": "reupload",
+			"musicPath": "Red and Blue and Green(Likey)/Red and Blue and Green.mp3.rnx",
+			"previewMusicPath": "Red and Blue and Green(Likey)/Red and Blue and Green_preview.mp3.rnx",
+			"coverPicturePath": "Red and Blue and Green(Likey)/Red and Blue and Green.jpg.rnx",
+			"storePreviewPicturePath": null,
+			"charts": [
+				{
+					"id": null,
+					"difficultyClass": 5,
+					"difficultyValue": 14,
+					"DValue": null,
+					"chartPath": "Red and Blue and Green(Likey)/Red and Blue and Green_Giga.xml.rnx"
+				}
+			]
+		},
+		{
+			"id": "6090d7bcd83a486d8245e76b",
+			"musicName": "Seraphim",
+			"composerName": "Yooh",
+			"noterName": "三叶苜蓿.",
+			"introduction": "",
+			"musicPath": "Seraphim(三叶苜蓿.)/Seraphim.mp3.rnx",
+			"previewMusicPath": "Seraphim(三叶苜蓿.)/Seraphim_preview.mp3.rnx",
+			"coverPicturePath": "Seraphim(三叶苜蓿.)/Seraphim.jpg.rnx",
+			"storePreviewPicturePath": null,
+			"charts": [
+				{
+					"id": null,
+					"difficultyClass": 5,
+					"difficultyValue": 14,
+					"DValue": null,
+					"chartPath": "Seraphim(三叶苜蓿.)/Seraphim_GIGA.xml.rnx"
+				}
+			]
+		},
+		{
+			"id": "5cc294b52c68bd3408d03d53",
+			"musicName": "Singularity",
+			"composerName": "xi",
+			"noterName": "八間霊",
+			"introduction": "It was really challenging to write a chart with xi's music...\\nAND I can't draw a \"redo\"ver. of the cover(much more challenging)\\nhave fun<3",
+			"musicPath": "Singularity(八間霊)/Singularity.mp3.rnx",
+			"previewMusicPath": "Singularity(八間霊)/Singularity_preview.mp3.rnx",
+			"coverPicturePath": "Singularity(八間霊)/Singularity.jpg.rnx",
+			"storePreviewPicturePath": null,
+			"charts": [
+				{
+					"id": null,
+					"difficultyClass": 5,
+					"difficultyValue": 14,
+					"DValue": null,
+					"chartPath": "Singularity(八間霊)/Singularity_Giga.xml.rnx"
+				}
+			]
+		},
+		{
+			"id": "5cdec1900d164963024ec96a",
+			"musicName": "To Victory",
+			"composerName": "横山克",
+			"noterName": "北海若",
+			"introduction": "Still Learning Charting....",
+			"musicPath": "To Victory(北海若)/To Victory.mp3.rnx",
+			"previewMusicPath": "To Victory(北海若)/To Victory_preview.mp3.rnx",
+			"coverPicturePath": "To Victory(北海若)/To Victory.jpg.rnx",
+			"storePreviewPicturePath": null,
+			"charts": [
+				{
+					"id": null,
+					"difficultyClass": 3,
+					"difficultyValue": 8,
+					"DValue": null,
+					"chartPath": "To Victory(北海若)/To Victory_Hard.xml.rnx"
+				}
+			]
+		},
+		{
+			"id": "5d39d4a25f04d950dd6e8148",
+			"musicName": "World Vanquisher",
+			"composerName": "void (Mournfinale)",
+			"noterName": "TangScend",
+			"introduction": "Pattern Design: Aftermostdenouement",
+			"musicPath": "World Vanquisher(TangScend)/World Vanquisher.mp3.rnx",
+			"previewMusicPath": "World Vanquisher(TangScend)/World Vanquisher_preview.mp3.rnx",
+			"coverPicturePath": "World Vanquisher(TangScend)/World Vanquisher.jpg.rnx",
+			"storePreviewPicturePath": null,
+			"charts": [
+				{
+					"id": null,
+					"difficultyClass": 2,
+					"difficultyValue": 4,
+					"DValue": null,
+					"chartPath": "World Vanquisher(TangScend)/World Vanquisher_Normal.xml.rnx"
+				},
+				{
+					"id": null,
+					"difficultyClass": 3,
+					"difficultyValue": 10,
+					"DValue": null,
+					"chartPath": "World Vanquisher(TangScend)/World Vanquisher_Hard.xml.rnx"
+				},
+				{
+					"id": null,
+					"difficultyClass": 4,
+					"difficultyValue": 14,
+					"DValue": null,
+					"chartPath": "World Vanquisher(TangScend)/World Vanquisher_Mega.xml.rnx"
+				}
+			]
+		}
+	],
+	"relativeFolderPath": "Charts"
+}
